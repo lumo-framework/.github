@@ -1,5 +1,5 @@
 <h1 align="center">
-  <p align="center"><a href="https://docs.tsc.run" target="_blank"><img src="https://www.tsc.run/tsc-logo.svg" width="200" alt="tsc.run Logo"></a></p>
+  <p align="center"><a href="https://docs.tsc.run" target="_blank"><img src="https://tsc.run/tsc-mascot.png" width="200" alt="Tamo - tsc.run Mascot"></a></p>
   tsc.run
 </h1>
 
@@ -36,11 +36,11 @@
       </a>
     </td>
     <td width="33%" align="center">
-      <h3>📚 <a href="https://github.com/tsc-run/docs">Documentation</a></h3>
+      <h3>📚 <a href="https://github.com/tsc-run/website">Documentation</a></h3>
       <p>Complete documentation codebase for <a href="https://docs.tsc.run">docs.tsc.run</a>. Guides, tutorials, and API references.</p>
       <p><strong>Perfect for:</strong> Learning, contributing docs, reference material</p>
-      <a href="https://github.com/tsc-run/docs">
-        <img src="https://img.shields.io/github/stars/tsc-run/docs?style=social" alt="Stars">
+      <a href="https://github.com/tsc-run/website">
+        <img src="https://img.shields.io/github/stars/tsc-run/website?style=social" alt="Stars">
       </a>
     </td>
   </tr>
@@ -50,7 +50,7 @@
 
 1. **New to tsc.run?** → Start with the [**Starter Template**](https://github.com/tsc-run/tsc.run)
 2. **Want to contribute?** → Check out the [**Core Framework**](https://github.com/tsc-run/monorepo)
-3. **Need help?** → Browse the [**Documentation**](https://github.com/tsc-run/docs)
+3. **Need help?** → Browse the [**Documentation**](https://tsc.run)
 
 ---
 
